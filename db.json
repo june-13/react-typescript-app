@@ -1,0 +1,156 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Create react appをインストールする",
+      "done": true
+    },
+    {
+      "id": 2,
+      "content": "JSON Server仮のAPIを作成する",
+      "done": false
+    },
+    {
+      "id": 3,
+      "content": "Chakra UIをインストールする",
+      "done": false
+    },
+    {
+      "id": "01GCAY5SVHVT7T9FS4YY6NZG1M",
+      "content": "learn storybook",
+      "done": true
+    }
+  ],
+
+  "rank": [
+    {
+      "id": 1,
+      "category": "学習机・ランドセル・子供用品",
+      "goods": [
+        {
+          "id": 10001,
+          "goodsName": "キャスター付きトイボックス",
+          "price": 1990,
+          "star": 4,
+          "review": 22,
+          "img": "https://www.nitori-net.jp/ecstatic/image/product/8422233s/8422233s00.jpg?ts=20210813095140100&imwidth=200&imdensity=1"
+        },
+        {
+          "id": 10002,
+          "goodsName": "キッズ絵本ラック(セルフル)",
+          "price": 5990,
+          "star": 5,
+          "review": 1,
+          "img": "https://www.nitori-net.jp/ecstatic/image/product/8422232s/8422232s00.jpg?ts=20210813095101572&imwidth=200&imdensity=1"
+        },
+        {
+          "id": 10003,
+          "goodsName": "折り畳みできるキッズプレイマット(ロード)",
+          "price": 3290,
+          "star": 5,
+          "review": 4,
+          "img": "https://www.nitori-net.jp/ecstatic/image/product/8422235s/8422235s00.jpg?ts=20210607104122215&imwidth=200&imdensity=1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "収納・衣類収納",
+      "goods": [
+        {
+          "id": 10004,
+          "goodsName": "収納ケース Nインボックス(W) レギュラー",
+          "price": 699,
+          "star": 4,
+          "review": 176,
+          "img": "https://www.nitori-net.jp/ecstatic/image/product/8422235s/8422235s00.jpg?ts=20210607104122215&imwidth=200&imdensity=1"
+        },
+        {
+          "id": 10005,
+          "goodsName": "収納ケース Nインボックス(W) クォーター ホワイト",
+          "price": 349,
+          "star": 4,
+          "review": 25,
+          "img": "https://www.nitori-net.jp/ecstatic/image/product/7750529/775052901.jpg?ts=20190725152209871&imwidth=200&imdensity=1"
+        },
+        {
+          "id": 10006,
+          "goodsName": "収納ケース ソフトNインボックス レギュラー ホワイト",
+          "price": 749,
+          "star": 4,
+          "review": 48,
+          "img": "https://www.nitori-net.jp/ecstatic/image/product/8060239/806023901.jpg?ts=20210623125127173&imwidth=200&imdensity=1"
+        }
+      ]
+    }
+  ],
+  "swiperData": [
+    {
+      "imgUrl": "https://www.nitori-net.jp/ecstatic/include/characteristic/all/TopTk_bnr_pc.jpg",
+      "id": 1
+    },
+    {
+      "imgUrl": "https://www.nitori-net.jp/ecstatic/include/feature/img22/ncool/TopTk_bnr_cmpc.jpg",
+      "id": 2
+    },
+    {
+      "imgUrl": "https://www.nitori-net.jp/ecstatic/include/feature…mg22/sofa-combine/relaxingsofa/TopTk_bnr_cmpc.jpg",
+      "id": 3
+    },
+    {
+      "imgUrl": "https://www.nitori-net.jp/ecstatic/include/feature/img22/electronics/TopTk_bnr_pc.jpg",
+      "id": 4
+    }
+  ],
+  "data": [
+    {
+      "categoryId": 16,
+      "categoryName": "家电",
+      "categoryImage": "https://www.nitori-net.jp/ecstatic/image/sys-master/images/8993451212830/Mattress.jpg",
+      "subList": [
+        {
+          "categoryId": 17,
+          "categoryName": "厨房电器",
+          "categoryImage": ""
+        }
+      ]
+    },
+    {
+      "categoryId": 15,
+      "categoryName": "手机",
+      "categoryImage": "https://www.nitori-net.jp/ecstatic/image/sys-master/images/9011406700574/Kotatsu210921-2.jpg",
+      "subList": [
+        {
+          "categoryId": 18,
+          "categoryName": "翻盖手机",
+          "categoryImage": ""
+        },
+        {
+          "categoryId": 19,
+          "categoryName": "智能手机",
+          "categoryImage": ""
+        }
+      ]
+    }
+  ],
+  "address": [
+    {
+      "id": 1,
+      "addressName": "home",
+      "firstName": "a",
+      "lastName": "b",
+      "firstNameCata": "a",
+      "lastNameCata": "b",
+      "tel": 123123,
+      "posalCode": 3310000,
+      "mainAddress": "水水水水水水",
+      "subAddress": "对对对",
+      "sub2Address": "对对对",
+      "addressNumber": "1-1-1",
+      "houseName": null,
+      "houseNumber": null,
+      "houseType": "戸建て",
+      "elevator": "なし"
+    }
+  ]
+}

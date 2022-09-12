@@ -1,0 +1,15 @@
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.rank-list {
+  display: flex;
+}
+.rank-list .category-name {
+  font-size: larger;
+  font-weight: bold;
+}
+.rank-list .rank-item {
+  display: flex;
+}/*# sourceMappingURL=rank.css.map */
